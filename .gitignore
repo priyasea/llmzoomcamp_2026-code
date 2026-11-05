@@ -1,0 +1,4 @@
+.env
+faq.db
+faq.db_shm
+faq.db_wal
